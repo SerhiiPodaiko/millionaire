@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/millionaire/static/js/main.a48b0184.chunk.js",
+    "main.js.map": "/millionaire/static/js/main.a48b0184.chunk.js.map",
+    "runtime-main.js": "/millionaire/static/js/runtime-main.a2a58090.js",
+    "runtime-main.js.map": "/millionaire/static/js/runtime-main.a2a58090.js.map",
+    "static/js/2.e411eee0.chunk.js": "/millionaire/static/js/2.e411eee0.chunk.js",
+    "static/js/2.e411eee0.chunk.js.map": "/millionaire/static/js/2.e411eee0.chunk.js.map",
+    "static/js/3.bd872c0c.chunk.js": "/millionaire/static/js/3.bd872c0c.chunk.js",
+    "static/js/3.bd872c0c.chunk.js.map": "/millionaire/static/js/3.bd872c0c.chunk.js.map",
+    "index.html": "/millionaire/index.html",
+    "static/js/2.e411eee0.chunk.js.LICENSE.txt": "/millionaire/static/js/2.e411eee0.chunk.js.LICENSE.txt",
+    "static/js/3.bd872c0c.chunk.js.LICENSE.txt": "/millionaire/static/js/3.bd872c0c.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/millionaire/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/millionaire/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/millionaire/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/bg.c137ccd7.jpg": "/millionaire/static/media/bg.c137ccd7.jpg",
+    "static/media/src_sounds_correct.160572d7.mp3": "/millionaire/static/media/src_sounds_correct.160572d7.mp3",
+    "static/media/src_sounds_play.8e5f6d1d.mp3": "/millionaire/static/media/src_sounds_play.8e5f6d1d.mp3",
+    "static/media/src_sounds_wrong.e9468218.mp3": "/millionaire/static/media/src_sounds_wrong.e9468218.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2a58090.js",
+    "static/js/2.e411eee0.chunk.js",
+    "static/js/main.a48b0184.chunk.js"
+  ]
+}
